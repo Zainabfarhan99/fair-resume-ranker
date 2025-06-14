@@ -1,0 +1,11 @@
+Name,Email,Skills,Education,Experience,Filename,Score
+Jane Smith,jane.smith@example.com,"Python, Pandas","Education: B.Sc in Statistics, XYZ College, 2019",Experience: 2 years at DataFirm as Data Analyst,resume_2.txt,5
+John Doe,john.doe@example.com,"Python, Java, Sql","Education: B.Tech in Computer Science, ABC University, 2020",Experience: 3 years at TechCorp as Backend Developer,resume_1.txt,3
+Chris Lee,chris.lee@example.com,,"Education: B.Tech in Software Engineering, QRS University, 2020",Experience: 2.5 years at AppMinds,resume_7.txt,2
+David Brown,david.b@example.com,"Aws, Kubernetes","Education: B.Tech in Electronics, UVW University, 2019",Experience: 2 years at CloudNet as DevOps Engineer,resume_5.txt,2
+Emily Davis,emily.davis@example.com,"Python, Tensorflow","Education: M.Sc in AI, DEF University, 2022",Experience: Internship at AI Labs for 6 months,resume_4.txt,2
+Michael Johnson,michael.j@example.com,"Java, React","Education: B.Tech in Information Technology, LMN University, 2021",Experience: 1.5 years at Webify as Frontend Developer,resume_3.txt,2
+Ava Thomas,ava.thomas@example.com,React,"Education: B.Tech in Computer Engineering, HIJ University, 2022",Experience: 1 year at UIPros,resume_10.txt,2
+James Anderson,james.anderson@example.com,Python,"Education: B.Sc in Cybersecurity, RST College, 2021",Experience: 1 year at SecureNet,resume_9.txt,1
+Olivia Martin,olivia.martin@example.com,Python,"Education: M.Tech in Machine Learning, TUV Institute, 2023",Experience: Research Assistant at ML Lab,resume_8.txt,1
+Sophia Wilson,sophia.wilson@example.com,"Sql, Excel","Education: MBA, GHI Institute, 2020",Experience: 3 years at MarketLogic as Business Analyst,resume_6.txt,0

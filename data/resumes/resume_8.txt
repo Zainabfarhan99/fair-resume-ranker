@@ -1,0 +1,6 @@
+Olivia Martin
+Machine Learning Engineer
+Email: olivia.martin@example.com
+Skills: Python, Scikit-learn, PyTorch
+Education: M.Tech in Machine Learning, TUV Institute, 2023
+Experience: Research Assistant at ML Lab

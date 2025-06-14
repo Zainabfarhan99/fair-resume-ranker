@@ -1,0 +1,6 @@
+John Doe
+Software Engineer
+Email: john.doe@example.com
+Skills: Python, Java, SQL
+Education: B.Tech in Computer Science, ABC University, 2020
+Experience: 3 years at TechCorp as Backend Developer

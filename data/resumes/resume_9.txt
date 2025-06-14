@@ -1,0 +1,6 @@
+James Anderson
+Cybersecurity Analyst
+Email: james.anderson@example.com
+Skills: Networking, Penetration Testing, Python
+Education: B.Sc in Cybersecurity, RST College, 2021
+Experience: 1 year at SecureNet

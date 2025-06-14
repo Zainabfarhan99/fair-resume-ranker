@@ -1,0 +1,6 @@
+Jane Smith
+Data Analyst
+Email: jane.smith@example.com
+Skills: Python, Pandas, Power BI
+Education: B.Sc in Statistics, XYZ College, 2019
+Experience: 2 years at DataFirm as Data Analyst

@@ -1,0 +1,6 @@
+Emily Davis
+AI Research Assistant
+Email: emily.davis@example.com
+Skills: Python, TensorFlow, NLP
+Education: M.Sc in AI, DEF University, 2022
+Experience: Internship at AI Labs for 6 months

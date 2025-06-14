@@ -1,0 +1,1 @@
+We are looking for a Python Developer with experience in data analysis, pandas, scikit-learn, and basic NLP using spaCy or NLTK. Familiarity with REST APIs and Git is a plus.

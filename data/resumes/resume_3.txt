@@ -1,0 +1,6 @@
+Michael Johnson
+Web Developer
+Email: michael.j@example.com
+Skills: HTML, CSS, JavaScript, React
+Education: B.Tech in Information Technology, LMN University, 2021
+Experience: 1.5 years at Webify as Frontend Developer

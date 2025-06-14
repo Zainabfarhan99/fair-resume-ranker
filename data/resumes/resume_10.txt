@@ -1,0 +1,6 @@
+Ava Thomas
+Frontend Engineer
+Email: ava.thomas@example.com
+Skills: React, Redux, TypeScript
+Education: B.Tech in Computer Engineering, HIJ University, 2022
+Experience: 1 year at UIPros

@@ -1,0 +1,6 @@
+Chris Lee
+Mobile App Developer
+Email: chris.lee@example.com
+Skills: Kotlin, Swift, Firebase
+Education: B.Tech in Software Engineering, QRS University, 2020
+Experience: 2.5 years at AppMinds

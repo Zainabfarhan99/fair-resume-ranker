@@ -1,0 +1,6 @@
+David Brown
+Cloud Engineer
+Email: david.b@example.com
+Skills: AWS, Docker, Kubernetes
+Education: B.Tech in Electronics, UVW University, 2019
+Experience: 2 years at CloudNet as DevOps Engineer
