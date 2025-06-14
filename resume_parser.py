@@ -56,5 +56,5 @@ for filename in os.listdir(folder_path):
         parsed_data.append(resume_info)
 
 df = pd.DataFrame(parsed_data)
-df.to_csv("parsed_resumes.csv", index=False)
+#df.to_csv("parsed_resumes.csv", index=False)
 print("Parsed and saved to parsed_resumes.csv")

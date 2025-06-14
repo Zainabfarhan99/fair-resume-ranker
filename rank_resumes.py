@@ -17,6 +17,6 @@ df['Score'] = df['Skills'].apply(score)
 df = df.sort_values(by='Score', ascending=False)
 
 # Save the ranked results
-df.to_csv('ranked_resumes.csv', index=False)
+#df.to_csv('ranked_resumes.csv', index=False)
 
 print("Ranking complete. Saved to ranked_resumes.csv")
