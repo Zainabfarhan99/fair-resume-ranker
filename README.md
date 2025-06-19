@@ -16,7 +16,6 @@ This project tackles bias in automated resume screening systems. It includes:
 
 - Build a prototype that demonstrates fair, explainable resume ranking
 - Learn core concepts of algorithmic fairness
-- Impress PhD supervisors with hands-on commitment to ethical AI
 
 ## 🛠️ Tech Stack
 
