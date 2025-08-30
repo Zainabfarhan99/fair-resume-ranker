@@ -40,6 +40,6 @@ This project tackles bias in automated resume screening systems. It includes:
 ## 📬 Contact
 
 Created with ❤️ by **Zainab Farhan**  
-Aspiring PhD candidate in Human-Centered AI  
+ Human-Centered AI  
 [LinkedIn](https://www.linkedin.com/in/zainab-farhan) | [GitHub](https://github.com/Zainabfarhan99)
 
