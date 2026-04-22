@@ -1,0 +1,15 @@
+Fatima Al-Hassan
+Email: fatima.alhassan@email.com
+
+Skills: Python, scikit-learn, NLP, NLTK, spaCy, pandas, data analysis, REST API, Git, SQL, statistical modelling
+
+Education: M.Sc. Computer Science, Birmingham University, 2017
+
+Experience:
+- 3 years at HealthTech as Data Scientist (2017-2020)
+- NLP pipeline development using spaCy and NLTK
+- Python data analysis with pandas and scikit-learn
+- REST API integration for ML models
+- Career break 2020-2022 (family caregiving)
+- Returned as Data Analyst at NHS Digital (2022-present)
+- Python scripting, SQL, Git workflows

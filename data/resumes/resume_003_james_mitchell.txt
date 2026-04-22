@@ -1,0 +1,13 @@
+James Mitchell
+Email: james.mitchell@email.com
+
+Skills: Java, C++, Spring Boot, Docker, Kubernetes, REST API, Git, SQL, microservices
+
+Education: B.Sc. Computer Science, Tech University, 2021
+
+Experience:
+- 2 years at SoftwareCo as Backend Developer
+- Built REST APIs using Java Spring Boot
+- Microservices architecture and Docker deployment
+- SQL database design and optimisation
+- No Python or data science experience

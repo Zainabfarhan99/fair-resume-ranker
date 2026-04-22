@@ -1,0 +1,13 @@
+Priya Sharma
+Email: priya.sharma@email.com
+
+Skills: Python, pandas, SQL, data analysis, Excel, Tableau, basic machine learning, scikit-learn, Git
+
+Education: B.Tech Computer Science, State University, 2019
+
+Experience:
+- 3 years at Analytics Firm as Data Analyst
+- Data analysis and reporting using pandas and SQL
+- Built basic ML models with scikit-learn for customer segmentation
+- Familiar with Git for version control
+- Some NLP work using NLTK for text cleaning
