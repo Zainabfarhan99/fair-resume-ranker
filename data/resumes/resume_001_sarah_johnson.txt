@@ -1,0 +1,13 @@
+Sarah Johnson
+Email: sarah.johnson@email.com
+
+Skills: Python, pandas, scikit-learn, NLP, spaCy, NLTK, REST API, Git, SQL, data analysis, machine learning, TF-IDF, text classification
+
+Education: M.Sc. Data Science, University of Edinburgh, 2020
+
+Experience:
+- 4 years at DataCorp as Senior Data Scientist
+- Built NLP pipelines using spaCy for named entity recognition
+- Developed REST APIs for ML model deployment
+- Extensive data analysis with pandas and scikit-learn
+- Led team projects using Git and agile workflows

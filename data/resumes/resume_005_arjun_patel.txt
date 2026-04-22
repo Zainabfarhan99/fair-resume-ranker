@@ -1,0 +1,13 @@
+Arjun Patel
+Email: arjun.patel@email.com
+
+Skills: Python, MySQL, HTML, CSS, JavaScript, basic data analysis
+
+Education: B.Tech Information Technology, Regional Institute, 2022
+
+Experience:
+- 1 year at Small IT Firm as Junior Developer
+- Python scripting for automation tasks
+- MySQL database queries
+- No NLP, pandas, or scikit-learn experience
+- Completed online Python course on Coursera
