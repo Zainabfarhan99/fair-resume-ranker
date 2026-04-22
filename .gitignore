@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 *.csv
 .DS_Store
+lime_outputs/
+models/
+outputs/
