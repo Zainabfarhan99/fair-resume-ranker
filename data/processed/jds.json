@@ -1,0 +1,331 @@
+[
+  {
+    "jd_id": "java_backend_dev",
+    "role_title": "Java Backend Developer",
+    "required_skills": [
+      "hibernate",
+      "j2ee",
+      "java",
+      "junit",
+      "maven",
+      "spring",
+      "sql"
+    ],
+    "description_text": "Java Backend Developer\n\nWe are seeking a Backend Developer with strong experience in Java enterprise development. You will design and build server-side services, integrate with relational databases, and write automated tests. The role involves working with Spring framework, Hibernate ORM, J2EE patterns, SQL, JUnit for testing, and Maven for build management. Solid object-oriented design skills required."
+  },
+  {
+    "jd_id": "java_microservices_dev",
+    "role_title": "Java Microservices Developer",
+    "required_skills": [
+      "docker",
+      "git",
+      "java",
+      "jenkins",
+      "rest",
+      "spring",
+      "spring boot"
+    ],
+    "description_text": "Java Microservices Developer\n\nBuild cloud-native Java services in a microservices architecture. You will develop REST APIs using Spring Boot, containerise services with Docker, and work in continuous-delivery pipelines using Jenkins. Strong Git workflow experience expected. The team values clean API design and test-driven development."
+  },
+  {
+    "jd_id": "frontend_dev",
+    "role_title": "Frontend Developer",
+    "required_skills": [
+      "ajax",
+      "bootstrap",
+      "css",
+      "css3",
+      "html",
+      "html5",
+      "javascript",
+      "jquery"
+    ],
+    "description_text": "Frontend Developer\n\nBuild responsive, interactive web interfaces. You will work with JavaScript, HTML5, CSS3, jQuery, and Bootstrap to deliver polished user experiences. Comfort with AJAX-based dynamic content and cross-browser compatibility expected. Eye for design detail and attention to accessibility a plus."
+  },
+  {
+    "jd_id": "react_dev",
+    "role_title": "React Frontend Developer",
+    "required_skills": [
+      "css",
+      "git",
+      "html",
+      "javascript",
+      "node.js",
+      "react",
+      "rest"
+    ],
+    "description_text": "React Frontend Developer\n\nModern frontend developer fluent in React. You will build component-based UIs consuming REST APIs, work in a Node.js tooling ecosystem, and collaborate via Git. Solid JavaScript fundamentals (HTML, CSS) required. Experience with state management libraries and frontend testing frameworks is valued."
+  },
+  {
+    "jd_id": "angular_dev",
+    "role_title": "Angular Developer",
+    "required_skills": [
+      "angularjs",
+      "bootstrap",
+      "css",
+      "git",
+      "html",
+      "javascript",
+      "rest"
+    ],
+    "description_text": "Angular Developer\n\nFrontend developer specialising in AngularJS. Build single-page applications consuming RESTful services, with responsive layouts using Bootstrap. Strong JavaScript foundations (HTML, CSS) and Git collaboration skills required."
+  },
+  {
+    "jd_id": "fullstack_dev",
+    "role_title": "Full-Stack Web Developer",
+    "required_skills": [
+      "css",
+      "git",
+      "html",
+      "java",
+      "javascript",
+      "spring",
+      "sql"
+    ],
+    "description_text": "Full-Stack Web Developer\n\nFull-stack developer comfortable across the stack. Frontend work in JavaScript, HTML, and CSS. Backend services in Java with Spring framework against SQL databases. Git-based workflow and code reviews. Comfort owning a feature end-to-end is essential."
+  },
+  {
+    "jd_id": "python_dev",
+    "role_title": "Python Backend Developer",
+    "required_skills": [
+      "django",
+      "git",
+      "linux",
+      "python",
+      "rest",
+      "sql"
+    ],
+    "description_text": "Python Backend Developer\n\nBuild Python web services using Django. The role requires solid SQL skills, experience designing REST APIs, comfort working in Linux environments, and Git-based collaboration. Test coverage and code quality matter to the team."
+  },
+  {
+    "jd_id": "python_data_dev",
+    "role_title": "Python Data Engineer",
+    "required_skills": [
+      "aws",
+      "git",
+      "linux",
+      "python",
+      "sql"
+    ],
+    "description_text": "Python Data Engineer\n\nBuild data pipelines and analytical tooling in Python. Strong SQL skills essential. You will work in Linux environments, with AWS-hosted infrastructure, using Git for version control. Experience with large-scale data processing frameworks is a plus."
+  },
+  {
+    "jd_id": "devops_engineer",
+    "role_title": "DevOps Engineer",
+    "required_skills": [
+      "aws",
+      "bash",
+      "docker",
+      "git",
+      "jenkins",
+      "linux"
+    ],
+    "description_text": "DevOps Engineer\n\nOwn the build and deployment infrastructure. You will work with Linux, AWS cloud services, Jenkins for CI/CD, Docker for containerisation, and Bash scripting for automation. Strong Git workflow experience required. Curiosity about reliability and observability welcomed."
+  },
+  {
+    "jd_id": "cloud_engineer",
+    "role_title": "AWS Cloud Engineer",
+    "required_skills": [
+      "aws",
+      "docker",
+      "git",
+      "linux",
+      "python"
+    ],
+    "description_text": "AWS Cloud Engineer\n\nDesign and operate AWS-based infrastructure. Linux administration skills, Python automation, Docker for service packaging, and Git for infrastructure-as-code workflows. Familiarity with multiple AWS services and security best practices expected."
+  },
+  {
+    "jd_id": "dba_oracle",
+    "role_title": "Oracle Database Administrator",
+    "required_skills": [
+      "linux",
+      "oracle",
+      "pl/sql",
+      "sql",
+      "unix"
+    ],
+    "description_text": "Oracle Database Administrator\n\nAdminister and tune Oracle database systems. Strong SQL and PL/SQL skills required. You will work in Linux and Unix environments, manage backups and recoveries, and support production workloads. Strong attention to detail and comfort with after-hours support windows expected."
+  },
+  {
+    "jd_id": "dba_sqlserver",
+    "role_title": "SQL Server Database Administrator",
+    "required_skills": [
+      "active directory",
+      "oracle",
+      "sql",
+      "sql server"
+    ],
+    "description_text": "SQL Server Database Administrator\n\nAdminister Microsoft SQL Server environments. You will design schemas, tune queries, manage backups, and integrate with Active Directory for authentication. Familiarity with Oracle is a plus for cross-platform work."
+  },
+  {
+    "jd_id": "data_engineer",
+    "role_title": "Data Engineer",
+    "required_skills": [
+      "aws",
+      "linux",
+      "mongodb",
+      "python",
+      "sql"
+    ],
+    "description_text": "Data Engineer\n\nBuild and maintain data infrastructure. Strong SQL fundamentals, Python scripting, and Linux comfort are required. The role involves AWS-hosted data platforms and document stores like MongoDB. Strong sense of data quality and pipeline reliability essential."
+  },
+  {
+    "jd_id": "network_admin",
+    "role_title": "Network Administrator",
+    "required_skills": [
+      "active directory",
+      "linux",
+      "security",
+      "unix"
+    ],
+    "description_text": "Network Administrator\n\nAdminister enterprise network infrastructure. Linux and Unix systems administration, Active Directory management, and a security-first mindset are required. You will support a mid-sized environment and respond to operational incidents."
+  },
+  {
+    "jd_id": "security_analyst",
+    "role_title": "IT Security Analyst",
+    "required_skills": [
+      "active directory",
+      "linux",
+      "network security",
+      "security"
+    ],
+    "description_text": "IT Security Analyst\n\nMonitor and respond to security incidents. Required skills include security operations, Active Directory administration, Linux fundamentals, and network security concepts. Curiosity about threat landscape and incident response playbooks valued."
+  },
+  {
+    "jd_id": "qa_engineer",
+    "role_title": "QA Automation Engineer",
+    "required_skills": [
+      "agile",
+      "git",
+      "java",
+      "junit",
+      "selenium"
+    ],
+    "description_text": "QA Automation Engineer\n\nDesign and implement automated test suites. Strong Java skills with JUnit for unit testing and Selenium for UI automation. Git collaboration in agile delivery teams. Strong analytical thinking about edge cases is essential."
+  },
+  {
+    "jd_id": "scrum_pm",
+    "role_title": "Scrum Master / Project Manager",
+    "required_skills": [
+      "agile",
+      "jira",
+      "project management",
+      "scrum"
+    ],
+    "description_text": "Scrum Master / Project Manager\n\nFacilitate agile delivery for software teams. Strong agile/scrum facilitation skills, Jira-based backlog management, and overall project management discipline required. Confident facilitation of sprint ceremonies and stakeholder communication."
+  },
+  {
+    "jd_id": "business_analyst",
+    "role_title": "Business Analyst",
+    "required_skills": [
+      "agile",
+      "jira",
+      "project management",
+      "sql"
+    ],
+    "description_text": "Business Analyst\n\nBridge between business stakeholders and engineering. SQL fluency for data analysis, agile delivery experience, and Jira-based requirement management. Strong written communication and stakeholder management skills expected."
+  },
+  {
+    "jd_id": "java_lead",
+    "role_title": "Senior Java Developer / Tech Lead",
+    "required_skills": [
+      "agile",
+      "hibernate",
+      "j2ee",
+      "java",
+      "junit",
+      "maven",
+      "spring",
+      "sql"
+    ],
+    "description_text": "Senior Java Developer / Tech Lead\n\nLead a team of Java developers building enterprise applications. Deep expertise in Java, Spring, Hibernate, J2EE patterns, SQL, JUnit, and Maven. Comfort facilitating agile ceremonies and mentoring junior engineers. Architectural design experience valued."
+  },
+  {
+    "jd_id": "node_dev",
+    "role_title": "Node.js Backend Developer",
+    "required_skills": [
+      "git",
+      "javascript",
+      "mongodb",
+      "node.js",
+      "rest"
+    ],
+    "description_text": "Node.js Backend Developer\n\nBuild server-side services in Node.js. Strong JavaScript fundamentals, REST API design, MongoDB document modelling, and Git collaboration required. Comfort with asynchronous programming patterns essential."
+  },
+  {
+    "jd_id": "php_dev",
+    "role_title": "PHP Web Developer",
+    "required_skills": [
+      "css",
+      "html",
+      "javascript",
+      "jquery",
+      "mysql",
+      "php"
+    ],
+    "description_text": "PHP Web Developer\n\nBuild web applications in PHP. Strong frontend complement (JavaScript, HTML, CSS, jQuery) and MySQL database experience required. Comfort working in established codebases and incrementally improving them."
+  },
+  {
+    "jd_id": "dotnet_dev",
+    "role_title": ".NET Developer",
+    "required_skills": [
+      "css",
+      "html",
+      "javascript",
+      "sql",
+      "sql server"
+    ],
+    "description_text": ".NET Developer\n\nBuild enterprise applications on the .NET stack. Strong SQL Server and SQL fundamentals, with web frontend skills (JavaScript, HTML, CSS) for full-stack feature delivery. Familiarity with Microsoft ecosystem expected."
+  },
+  {
+    "jd_id": "senior_dba_ops",
+    "role_title": "Senior Database Engineer (Operations)",
+    "required_skills": [
+      "backup and recovery",
+      "data guard",
+      "disaster recovery",
+      "oracle",
+      "performance tuning",
+      "rman"
+    ],
+    "description_text": "Senior Database Engineer\n\nSenior Oracle database engineer focused on production database operations. Deep experience with RMAN backups and recoveries, Data Guard for replication, performance tuning of production workloads, and disaster recovery planning. You will own the operational health of mission-critical Oracle systems and lead recovery exercises."
+  },
+  {
+    "jd_id": "network_engineer",
+    "role_title": "Network Engineer (Cisco / VMware)",
+    "required_skills": [
+      "cisco",
+      "dhcp",
+      "dns",
+      "firewalls",
+      "vmware",
+      "vpn"
+    ],
+    "description_text": "Network Engineer\n\nOperate and maintain enterprise network infrastructure. The role spans Cisco switching and routing, DNS and DHCP administration, VPN configuration, firewall management, and VMware-based virtual networking. Strong troubleshooting instincts and comfort during incident response are essential."
+  },
+  {
+    "jd_id": "systems_admin",
+    "role_title": "Systems Administrator (Windows / Infrastructure)",
+    "required_skills": [
+      "active directory",
+      "dns",
+      "sharepoint",
+      "vmware",
+      "windows"
+    ],
+    "description_text": "Systems Administrator\n\nAdminister enterprise Windows-based infrastructure. The role includes Active Directory administration, VMware virtualisation management, SharePoint support, and DNS services. You will support end-users, manage server lifecycle, and coordinate with networking and security teams."
+  },
+  {
+    "jd_id": "database_developer",
+    "role_title": "Database Developer (Multi-Platform)",
+    "required_skills": [
+      "database design",
+      "oracle",
+      "performance tuning",
+      "pl/sql",
+      "sql",
+      "sql server"
+    ],
+    "description_text": "Database Developer\n\nDesign and build database solutions across Oracle and SQL Server platforms. Strong SQL and PL/SQL skills required. The role involves database design, performance tuning, and collaborating with application teams on data-access patterns. You will own schema evolution and query optimisation."
+  }
+]
