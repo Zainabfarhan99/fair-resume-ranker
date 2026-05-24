@@ -6,3 +6,4 @@ __pycache__/
 lime_outputs/
 models/
 outputs/
+data/processed/embeddings/*.npy
